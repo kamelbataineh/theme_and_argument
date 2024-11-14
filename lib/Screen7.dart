@@ -41,7 +41,7 @@ class _HomeState extends State<Screen7> {
                   controller: _controllerUser,
                   decoration: InputDecoration(
                     labelText: 'Enter your name',
-                    hintText: 'username',
+                    hintText: 'username',//
                   ),
                 ),
               ),
